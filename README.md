@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/rootkiddo-profile-banner.png" width="100%" alt="RootKiddo in a layered night workshop beside the words: Curious about how things work. I build to understand AI, software, and privacy." />
+  <img src="assets/rootkiddo-profile-banner-v2.png" width="100%" alt="RootKiddo in a layered night workshop beside the words: Curious about how things work. I build to understand AI, software, and privacy." />
 </div>
 
 <p align="center">
